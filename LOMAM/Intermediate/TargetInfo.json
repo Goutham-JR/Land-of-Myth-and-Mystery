@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LOMAM",
+			"Path": "..\\Source\\LOMAM.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LOMAMEditor",
+			"Path": "..\\Source\\LOMAMEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

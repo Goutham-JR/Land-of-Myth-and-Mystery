@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LOMAM.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\LOMAMEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\LOMAM\LOMAM.init.gen.cpp.obj"
+"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\LOMAM\LOMAMCharacter.gen.cpp.obj"
+"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\LOMAM\LOMAMGameMode.gen.cpp.obj"
+"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\LOMAM\LOMAM.cpp.obj"
+"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\LOMAM\LOMAMCharacter.cpp.obj"
+"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\LOMAM\LOMAMGameMode.cpp.obj"
+"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\LOMAM\Default.rc2.res"
+/OUT:"C:\Users\gowth\OneDrive\Documents\Unreal Projects\LOMAM\Intermediate\Build\Win64\x64\UnrealEditor\Development\LOMAM\UnrealEditor-LOMAM.lib"
